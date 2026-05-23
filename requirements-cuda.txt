@@ -1,0 +1,4 @@
+cupy-cuda12x>=13.4
+nvidia-cuda-runtime-cu12>=12.9
+nvidia-cuda-nvrtc-cu12>=12.9
+nvidia-cuda-nvcc-cu12>=12.9

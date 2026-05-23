@@ -1,0 +1,556 @@
+{
+  "reference": {
+    "image_shape": [
+      48,
+      48
+    ],
+    "fov_m": 24.0,
+    "intensity_max": 0.039368100464344025,
+    "intensity_total": 2.5975776405066426,
+    "ring_diameter_M": 9.715556216395122,
+    "asymmetry": {
+      "north_flux": 1.5606964486032666,
+      "south_flux": 1.036881191903376,
+      "south_over_north": 0.6643708280564904
+    },
+    "photon_ring_peak_radius_M": 4.596194077712559,
+    "photon_ring_peak_intensity": 0.004865384535757282,
+    "meta": {
+      "source": "reference/gpu_geodesic_reference_float64.npz",
+      "resolution": 48,
+      "fov_m": 24.0,
+      "spin": 0.7,
+      "inclination_deg": 60.0
+    }
+  },
+  "sweep": [
+    {
+      "spin": 0.0,
+      "inclination_deg": 10.0,
+      "image_path": "figures\\sweep\\sweep_spin0.0_inc10.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7450980392156863,
+        "intensity_total": 57232.94117647059,
+        "ring_diameter_M": 20.749180191468493,
+        "asymmetry": {
+          "north_flux": 28053.67058823529,
+          "south_flux": 29179.270588235293,
+          "south_over_north": 1.0401230917879258
+        },
+        "photon_ring_peak_radius_M": 7.4246212024587495,
+        "photon_ring_peak_intensity": 0.6620508870215073
+      }
+    },
+    {
+      "spin": 0.0,
+      "inclination_deg": 30.0,
+      "image_path": "figures\\sweep\\sweep_spin0.0_inc30.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7568627450980392,
+        "intensity_total": 48490.58823529411,
+        "ring_diameter_M": 18.373247745295853,
+        "asymmetry": {
+          "north_flux": 22953.67058823529,
+          "south_flux": 25536.91764705882,
+          "south_over_north": 1.112541784935589
+        },
+        "photon_ring_peak_radius_M": 7.4246212024587495,
+        "photon_ring_peak_intensity": 0.5472315592903876
+      }
+    },
+    {
+      "spin": 0.0,
+      "inclination_deg": 60.0,
+      "image_path": "figures\\sweep\\sweep_spin0.0_inc60.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.788235294117647,
+        "intensity_total": 34046.717647058824,
+        "ring_diameter_M": 16.346566008245116,
+        "asymmetry": {
+          "north_flux": 15958.058823529413,
+          "south_flux": 18088.65882352941,
+          "south_over_north": 1.133512479403731
+        },
+        "photon_ring_peak_radius_M": 7.4246212024587495,
+        "photon_ring_peak_intensity": 0.4131970121382254
+      }
+    },
+    {
+      "spin": 0.0,
+      "inclination_deg": 80.0,
+      "image_path": "figures\\sweep\\sweep_spin0.0_inc80.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.8274509803921568,
+        "intensity_total": 20157.95294117647,
+        "ring_diameter_M": 15.240686341601823,
+        "asymmetry": {
+          "north_flux": 10793.329411764706,
+          "south_flux": 9364.623529411765,
+          "south_over_north": 0.8676306607675983
+        },
+        "photon_ring_peak_radius_M": 7.4246212024587495,
+        "photon_ring_peak_intensity": 0.3033669467786629
+      }
+    },
+    {
+      "spin": 0.3,
+      "inclination_deg": 10.0,
+      "image_path": "figures\\sweep\\sweep_spin0.3_inc10.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7450980392156863,
+        "intensity_total": 57568.27058823529,
+        "ring_diameter_M": 19.028365233860693,
+        "asymmetry": {
+          "north_flux": 28317.35294117647,
+          "south_flux": 29250.91764705882,
+          "south_over_north": 1.0329679369332876
+        },
+        "photon_ring_peak_radius_M": 6.717514421272202,
+        "photon_ring_peak_intensity": 0.6567635694952434
+      }
+    },
+    {
+      "spin": 0.3,
+      "inclination_deg": 30.0,
+      "image_path": "figures\\sweep\\sweep_spin0.3_inc30.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7686274509803922,
+        "intensity_total": 46622.047058823526,
+        "ring_diameter_M": 16.078206022474788,
+        "asymmetry": {
+          "north_flux": 22631.470588235294,
+          "south_flux": 23990.576470588232,
+          "south_over_north": 1.0600538032671838
+        },
+        "photon_ring_peak_radius_M": 6.717514421272202,
+        "photon_ring_peak_intensity": 0.5555388541085342
+      }
+    },
+    {
+      "spin": 0.3,
+      "inclination_deg": 60.0,
+      "image_path": "figures\\sweep\\sweep_spin0.3_inc60.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.792156862745098,
+        "intensity_total": 31024.90588235294,
+        "ring_diameter_M": 14.62215589294375,
+        "asymmetry": {
+          "north_flux": 15045.811764705883,
+          "south_flux": 15979.094117647059,
+          "south_over_north": 1.0620293785098687
+        },
+        "photon_ring_peak_radius_M": 6.717514421272202,
+        "photon_ring_peak_intensity": 0.3929683464534305
+      }
+    },
+    {
+      "spin": 0.3,
+      "inclination_deg": 80.0,
+      "image_path": "figures\\sweep\\sweep_spin0.3_inc80.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.8509803921568627,
+        "intensity_total": 18124.05882352941,
+        "ring_diameter_M": 13.632663656409697,
+        "asymmetry": {
+          "north_flux": 10111.270588235293,
+          "south_flux": 8012.788235294117,
+          "south_over_north": 0.792461062669729
+        },
+        "photon_ring_peak_radius_M": 6.717514421272202,
+        "photon_ring_peak_intensity": 0.29316876381741647
+      }
+    },
+    {
+      "spin": 0.5,
+      "inclination_deg": 10.0,
+      "image_path": "figures\\sweep\\sweep_spin0.5_inc10.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7490196078431373,
+        "intensity_total": 55307.611764705885,
+        "ring_diameter_M": 17.213338641692562,
+        "asymmetry": {
+          "north_flux": 27550.870588235295,
+          "south_flux": 27756.741176470587,
+          "south_over_north": 1.0074723805034025
+        },
+        "photon_ring_peak_radius_M": 6.0104076400856545,
+        "photon_ring_peak_intensity": 0.655494113038837
+      }
+    },
+    {
+      "spin": 0.5,
+      "inclination_deg": 30.0,
+      "image_path": "figures\\sweep\\sweep_spin0.5_inc30.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7725490196078432,
+        "intensity_total": 44475.352941176476,
+        "ring_diameter_M": 14.280883581048101,
+        "asymmetry": {
+          "north_flux": 21870.176470588238,
+          "south_flux": 22605.176470588234,
+          "south_over_north": 1.0336074105752393
+        },
+        "photon_ring_peak_radius_M": 6.0104076400856545,
+        "photon_ring_peak_intensity": 0.5442944863021597
+      }
+    },
+    {
+      "spin": 0.5,
+      "inclination_deg": 60.0,
+      "image_path": "figures\\sweep\\sweep_spin0.5_inc60.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.807843137254902,
+        "intensity_total": 28535.752941176474,
+        "ring_diameter_M": 13.212573872567319,
+        "asymmetry": {
+          "north_flux": 14189.576470588236,
+          "south_flux": 14346.176470588238,
+          "south_over_north": 1.0110362702033142
+        },
+        "photon_ring_peak_radius_M": 6.0104076400856545,
+        "photon_ring_peak_intensity": 0.3702351328310129
+      }
+    },
+    {
+      "spin": 0.5,
+      "inclination_deg": 80.0,
+      "image_path": "figures\\sweep\\sweep_spin0.5_inc80.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.8666666666666667,
+        "intensity_total": 16578.811764705883,
+        "ring_diameter_M": 12.273349125089178,
+        "asymmetry": {
+          "north_flux": 9570.176470588234,
+          "south_flux": 7008.6352941176465,
+          "south_over_north": 0.7323412808172448
+        },
+        "photon_ring_peak_radius_M": 6.0104076400856545,
+        "photon_ring_peak_intensity": 0.2696107232552078
+      }
+    },
+    {
+      "spin": 0.7,
+      "inclination_deg": 10.0,
+      "image_path": "figures\\sweep\\sweep_spin0.7_inc10.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7450980392156863,
+        "intensity_total": 52765.30588235294,
+        "ring_diameter_M": 15.422019736225014,
+        "asymmetry": {
+          "north_flux": 26222.964705882354,
+          "south_flux": 26542.34117647059,
+          "south_over_north": 1.012179266309907
+        },
+        "photon_ring_peak_radius_M": 5.303300858899107,
+        "photon_ring_peak_intensity": 0.6507313620634761
+      }
+    },
+    {
+      "spin": 0.7,
+      "inclination_deg": 30.0,
+      "image_path": "figures\\sweep\\sweep_spin0.7_inc30.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7686274509803922,
+        "intensity_total": 41191.129411764705,
+        "ring_diameter_M": 12.537962315102192,
+        "asymmetry": {
+          "north_flux": 20360.788235294116,
+          "south_flux": 20830.34117647059,
+          "south_over_north": 1.0230616288402103
+        },
+        "photon_ring_peak_radius_M": 5.303300858899107,
+        "photon_ring_peak_intensity": 0.5289595784838217
+      }
+    },
+    {
+      "spin": 0.7,
+      "inclination_deg": 60.0,
+      "image_path": "figures\\sweep\\sweep_spin0.7_inc60.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.8196078431372549,
+        "intensity_total": 25077.564705882352,
+        "ring_diameter_M": 11.56437159552634,
+        "asymmetry": {
+          "north_flux": 12815.576470588236,
+          "south_flux": 12261.988235294117,
+          "south_over_north": 0.9568034854643797
+        },
+        "photon_ring_peak_radius_M": 5.303300858899107,
+        "photon_ring_peak_intensity": 0.33132012163155367
+      }
+    },
+    {
+      "spin": 0.7,
+      "inclination_deg": 80.0,
+      "image_path": "figures\\sweep\\sweep_spin0.7_inc80.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.8862745098039215,
+        "intensity_total": 14422.023529411765,
+        "ring_diameter_M": 10.849601707348844,
+        "asymmetry": {
+          "north_flux": 8617.764705882353,
+          "south_flux": 5804.2588235294115,
+          "south_over_north": 0.6735225457672932
+        },
+        "photon_ring_peak_radius_M": 6.0104076400856545,
+        "photon_ring_peak_intensity": 0.2317590608511185
+      }
+    },
+    {
+      "spin": 0.9,
+      "inclination_deg": 10.0,
+      "image_path": "figures\\sweep\\sweep_spin0.9_inc10.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7372549019607844,
+        "intensity_total": 49703.22352941177,
+        "ring_diameter_M": 13.239887329640618,
+        "asymmetry": {
+          "north_flux": 24803.047058823533,
+          "south_flux": 24900.176470588234,
+          "south_over_north": 1.003916027395116
+        },
+        "photon_ring_peak_radius_M": 3.8890872965260117,
+        "photon_ring_peak_intensity": 0.661500480409895
+      }
+    },
+    {
+      "spin": 0.9,
+      "inclination_deg": 30.0,
+      "image_path": "figures\\sweep\\sweep_spin0.9_inc30.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7686274509803922,
+        "intensity_total": 37247.4,
+        "ring_diameter_M": 10.554608667630749,
+        "asymmetry": {
+          "north_flux": 18672.917647058825,
+          "south_flux": 18574.482352941177,
+          "south_over_north": 0.9947284459783845
+        },
+        "photon_ring_peak_radius_M": 4.596194077712559,
+        "photon_ring_peak_intensity": 0.5057667477404709
+      }
+    },
+    {
+      "spin": 0.9,
+      "inclination_deg": 60.0,
+      "image_path": "figures\\sweep\\sweep_spin0.9_inc60.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.8431372549019608,
+        "intensity_total": 20765.50588235294,
+        "ring_diameter_M": 9.462348483883417,
+        "asymmetry": {
+          "north_flux": 10990.69411764706,
+          "south_flux": 9774.811764705883,
+          "south_over_north": 0.8893716502410061
+        },
+        "photon_ring_peak_radius_M": 4.596194077712559,
+        "photon_ring_peak_intensity": 0.3001628982374165
+      }
+    },
+    {
+      "spin": 0.9,
+      "inclination_deg": 80.0,
+      "image_path": "figures\\sweep\\sweep_spin0.9_inc80.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.9372549019607843,
+        "intensity_total": 11625.458823529412,
+        "ring_diameter_M": 8.775978507354559,
+        "asymmetry": {
+          "north_flux": 7308.8117647058825,
+          "south_flux": 4316.64705882353,
+          "south_over_north": 0.590608596553073
+        },
+        "photon_ring_peak_radius_M": 3.8890872965260117,
+        "photon_ring_peak_intensity": 0.20412351873599865
+      }
+    },
+    {
+      "spin": 0.998,
+      "inclination_deg": 10.0,
+      "image_path": "figures\\sweep\\sweep_spin0.998_inc10.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7254901960784313,
+        "intensity_total": 48281.364705882355,
+        "ring_diameter_M": 12.009444844363266,
+        "asymmetry": {
+          "north_flux": 24220.941176470587,
+          "south_flux": 24060.423529411768,
+          "south_over_north": 0.9933727741672255
+        },
+        "photon_ring_peak_radius_M": 3.181980515339464,
+        "photon_ring_peak_intensity": 0.6440639119182184
+      }
+    },
+    {
+      "spin": 0.998,
+      "inclination_deg": 30.0,
+      "image_path": "figures\\sweep\\sweep_spin0.998_inc30.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.7607843137254902,
+        "intensity_total": 35484.95294117647,
+        "ring_diameter_M": 9.590948019188131,
+        "asymmetry": {
+          "north_flux": 18048.45882352941,
+          "south_flux": 17436.494117647057,
+          "south_over_north": 0.9660932430926154
+        },
+        "photon_ring_peak_radius_M": 3.8890872965260117,
+        "photon_ring_peak_intensity": 0.49676612931924835
+      }
+    },
+    {
+      "spin": 0.998,
+      "inclination_deg": 60.0,
+      "image_path": "figures\\sweep\\sweep_spin0.998_inc60.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.8431372549019608,
+        "intensity_total": 18589.8,
+        "ring_diameter_M": 8.097383038845376,
+        "asymmetry": {
+          "north_flux": 10164.882352941177,
+          "south_flux": 8424.917647058823,
+          "south_over_north": 0.8288258884394367
+        },
+        "photon_ring_peak_radius_M": 3.181980515339464,
+        "photon_ring_peak_intensity": 0.289551256744313
+      }
+    },
+    {
+      "spin": 0.998,
+      "inclination_deg": 80.0,
+      "image_path": "figures\\sweep\\sweep_spin0.998_inc80.png",
+      "metrics": {
+        "image_shape": [
+          384,
+          384
+        ],
+        "fov_m": 24.0,
+        "intensity_max": 0.9490196078431372,
+        "intensity_total": 9341.117647058825,
+        "ring_diameter_M": 7.115514294565081,
+        "asymmetry": {
+          "north_flux": 6175.447058823531,
+          "south_flux": 3165.670588235294,
+          "south_over_north": 0.5126220916609037
+        },
+        "photon_ring_peak_radius_M": 3.181980515339464,
+        "photon_ring_peak_intensity": 0.20555007237794387
+      }
+    }
+  ]
+}

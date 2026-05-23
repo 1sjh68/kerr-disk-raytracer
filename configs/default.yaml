@@ -1,0 +1,34 @@
+black_hole:
+  spin: 0.7
+  mass_unit: 1.0
+
+camera:
+  r_obs: 60.0
+  inclination_deg: 60.0
+  fov_m: 24.0
+
+disk:
+  inner_radius: isco
+  outer_radius: 28.0
+  emissivity_index: 3.0
+  model: power_law          # power_law | novikov_thorne
+
+integration:
+  step_size: 0.35
+  max_steps: 700
+  horizon_epsilon: 0.05
+  escape_radius: 90.0
+
+render:
+  resolution: 128
+  geodesic_resolution: 48
+  gamma: 2.2
+  bloom: true
+  tone_map: reinhard
+  # Disk colour pipeline: "approx" (legacy heuristic) or "cie1931"
+  # (Planck spectrum + CIE 1931 standard observer + sRGB; see src/disk_color.py).
+  color_mode: approx
+  cie_t_min: 3000.0          # K, only used when color_mode = cie1931
+  cie_t_max: 30000.0         # K, only used when color_mode = cie1931
+  # Optional CUDA block size; "16x16" or [16,16] both accepted.
+  cuda_block: [16, 16]

@@ -1,0 +1,37 @@
+# 默认：文本文件统一 LF（Linux/macOS 友好；Windows 端 git 会自动转 CRLF）
+*               text=auto eol=lf
+
+# 显式 binary（不做行尾转换）
+*.png           binary
+*.jpg           binary
+*.jpeg          binary
+*.gif           binary
+*.pdf           binary
+*.pptx          binary
+*.ico           binary
+*.npz           binary
+*.npy           binary
+*.h5            binary
+*.hdf5          binary
+*.ncu-rep       binary
+*.exe           binary
+*.dll           binary
+*.so            binary
+*.dylib         binary
+
+# Windows 脚本保持 CRLF
+*.ps1           text eol=crlf
+*.bat           text eol=crlf
+*.cmd           text eol=crlf
+*.reg           text eol=crlf
+
+# 必须 LF（在 Windows 上跑也必须 LF，否则 Linux/WSL 解释 shebang 失败）
+*.sh            text eol=lf
+
+# CUDA 源码用 LF（避免不同平台 nvcc 抱怨）
+*.cu            text eol=lf
+*.cuh           text eol=lf
+
+# Diff hint（GitHub linguist 可识别）
+*.cu            linguist-language=cuda
+*.cuh           linguist-language=cuda

@@ -1,0 +1,10 @@
+name: kerr-disk-raytracer
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - pytest
+  - pyyaml
+  # Optional CUDA path: install requirements-cuda.txt into this environment.

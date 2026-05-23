@@ -1,0 +1,31 @@
+{
+  "method": "cuda_hamiltonian_geodesic_rawkernel",
+  "resolution": 48,
+  "spin": 0.7,
+  "inclination_deg": 60.0,
+  "inner_radius": 3.3931284701816304,
+  "outer_radius": 28.0,
+  "elapsed_s": 1.1500390999972296,
+  "intensity_max": 0.039368100464344025,
+  "redshift_min": 0.3327796757221222,
+  "redshift_max": 1.2212756872177124,
+  "hit_fraction": 0.9175347222222222,
+  "status_counts": {
+    "disk": 2114,
+    "captured": 183,
+    "escaped": 7,
+    "max_steps": 0,
+    "invalid": 0
+  },
+  "null_error_max": 1000000.0,
+  "null_error_mean": 79427.08479803601,
+  "disk_null_error_max": 0.24162597954273224,
+  "disk_null_error_mean": 0.0015963257841744428,
+  "step_size": 0.35,
+  "max_steps": 700,
+  "gpu_kernel_elapsed_s": 1.1485953369140625,
+  "cuda_block": "16x16",
+  "backend": "cuda",
+  "backend_reason": "cupy_cuda_devices=1; device0=NVIDIA GeForce RTX 4060 Laptop GPU",
+  "precision": "float64"
+}

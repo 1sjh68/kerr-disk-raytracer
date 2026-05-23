@@ -1,0 +1,20 @@
+[
+  {
+    "resolution": 48,
+    "baseline_s": 0.0589,
+    "optimized_s": 0.0547,
+    "speedup": 1.08
+  },
+  {
+    "resolution": 128,
+    "baseline_s": 0.1048,
+    "optimized_s": 0.0993,
+    "speedup": 1.06
+  },
+  {
+    "resolution": 256,
+    "baseline_s": 0.2915,
+    "optimized_s": 0.3189,
+    "speedup": 0.91
+  }
+]

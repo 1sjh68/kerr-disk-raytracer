@@ -1,0 +1,4016 @@
+{
+  "a": 0.7,
+  "r_obs_geokerr": 4147200.0,
+  "r_obs_cpu": 1000.0,
+  "inclination_deg": 60.00000000000001,
+  "total_rays": 400,
+  "overall_agreement": 0.9125,
+  "disk_agreement": 0.9827089337175793,
+  "captured_agreement": 0.46153846153846156,
+  "escaped_agreement": 0,
+  "total_disk": 347,
+  "total_captured": 52,
+  "total_escaped": 0,
+  "per_ray": [
+    {
+      "alpha": -11.4,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 15.114790904363208,
+      "cpu_final_r": 18.906644044031513
+    },
+    {
+      "alpha": -11.4,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.28625428571735,
+      "cpu_final_r": 17.27355637674579
+    },
+    {
+      "alpha": -11.4,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.510498517967216,
+      "cpu_final_r": 15.756022924102071
+    },
+    {
+      "alpha": -11.4,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.796378145888315,
+      "cpu_final_r": 14.368347322968942
+    },
+    {
+      "alpha": -11.4,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.153854368729814,
+      "cpu_final_r": 13.129138726941292
+    },
+    {
+      "alpha": -11.4,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.593773935636134,
+      "cpu_final_r": 12.060933578455831
+    },
+    {
+      "alpha": -11.4,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.12741265938298,
+      "cpu_final_r": 11.191460888048672
+    },
+    {
+      "alpha": -11.4,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.765742352361405,
+      "cpu_final_r": 10.556592932139008
+    },
+    {
+      "alpha": -11.4,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.518448311226361,
+      "cpu_final_r": 10.20172078656553
+    },
+    {
+      "alpha": -11.4,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.392831098273941,
+      "cpu_final_r": 10.181251135219643
+    },
+    {
+      "alpha": -11.4,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.392831098273941,
+      "cpu_final_r": 10.532247646968592
+    },
+    {
+      "alpha": -11.4,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.518448311226361,
+      "cpu_final_r": 11.262942384646989
+    },
+    {
+      "alpha": -11.4,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.765742352361405,
+      "cpu_final_r": 12.337683743870317
+    },
+    {
+      "alpha": -11.4,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.12741265938298,
+      "cpu_final_r": 13.699080599207674
+    },
+    {
+      "alpha": -11.4,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.593773935636134,
+      "cpu_final_r": 15.27699811501175
+    },
+    {
+      "alpha": -11.4,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.153854368729814,
+      "cpu_final_r": 17.017898692313416
+    },
+    {
+      "alpha": -11.4,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.796378145888315,
+      "cpu_final_r": 18.876446099693165
+    },
+    {
+      "alpha": -11.4,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.510498517967216,
+      "cpu_final_r": 20.81939171376461
+    },
+    {
+      "alpha": -11.4,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.28625428571735,
+      "cpu_final_r": 22.82513036101665
+    },
+    {
+      "alpha": -11.4,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 15.114790904363208,
+      "cpu_final_r": 24.87630615579765
+    },
+    {
+      "alpha": -10.2,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.28025790117209,
+      "cpu_final_r": 17.950757725166103
+    },
+    {
+      "alpha": -10.2,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.403914289061474,
+      "cpu_final_r": 16.26632443258804
+    },
+    {
+      "alpha": -10.2,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.578035009662395,
+      "cpu_final_r": 14.697569760809413
+    },
+    {
+      "alpha": -10.2,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.812335707464369,
+      "cpu_final_r": 13.260673224083087
+    },
+    {
+      "alpha": -10.2,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.118141964666254,
+      "cpu_final_r": 11.97722428892389
+    },
+    {
+      "alpha": -10.2,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.508258155310463,
+      "cpu_final_r": 10.871589615609908
+    },
+    {
+      "alpha": -10.2,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.99651341605075,
+      "cpu_final_r": 9.972894545075594
+    },
+    {
+      "alpha": -10.2,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.596869393718832,
+      "cpu_final_r": 9.318948085040219
+    },
+    {
+      "alpha": -10.2,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.322064076512518,
+      "cpu_final_r": 8.959984153263452
+    },
+    {
+      "alpha": -10.2,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.181955188275715,
+      "cpu_final_r": 8.954416931713936
+    },
+    {
+      "alpha": -10.2,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.181955188275715,
+      "cpu_final_r": 9.350961181616197
+    },
+    {
+      "alpha": -10.2,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.322064076512518,
+      "cpu_final_r": 10.157469111059232
+    },
+    {
+      "alpha": -10.2,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.596869393718832,
+      "cpu_final_r": 11.327911595632672
+    },
+    {
+      "alpha": -10.2,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.99651341605075,
+      "cpu_final_r": 12.789687505156294
+    },
+    {
+      "alpha": -10.2,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.508258155310463,
+      "cpu_final_r": 14.462498799140743
+    },
+    {
+      "alpha": -10.2,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.118141964666254,
+      "cpu_final_r": 16.288575515285224
+    },
+    {
+      "alpha": -10.2,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.812335707464369,
+      "cpu_final_r": 18.22051057323227
+    },
+    {
+      "alpha": -10.2,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.578035009662395,
+      "cpu_final_r": 20.2262668013775
+    },
+    {
+      "alpha": -10.2,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.403914289061474,
+      "cpu_final_r": 22.285729542823752
+    },
+    {
+      "alpha": -10.2,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.28025790117209,
+      "cpu_final_r": 24.38286437507286
+    },
+    {
+      "alpha": -9.0,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.49700871464601,
+      "cpu_final_r": 17.032215402618554
+    },
+    {
+      "alpha": -9.0,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.570227045917237,
+      "cpu_final_r": 15.290949557177559
+    },
+    {
+      "alpha": -9.0,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.69034680461251,
+      "cpu_final_r": 13.661731635923696
+    },
+    {
+      "alpha": -9.0,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.867776464074922,
+      "cpu_final_r": 12.167246672023472
+    },
+    {
+      "alpha": -9.0,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.115168670422406,
+      "cpu_final_r": 10.829352970844823
+    },
+    {
+      "alpha": -9.0,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.447494552314835,
+      "cpu_final_r": 9.677206909056611
+    },
+    {
+      "alpha": -9.0,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.881712859641093,
+      "cpu_final_r": 8.742784193775403
+    },
+    {
+      "alpha": -9.0,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.4357722905666,
+      "cpu_final_r": 8.06599288980239
+    },
+    {
+      "alpha": -9.0,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.126773241604385,
+      "cpu_final_r": 7.704369857738218
+    },
+    {
+      "alpha": -9.0,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.968422988371218,
+      "cpu_final_r": 7.720132637713205
+    },
+    {
+      "alpha": -9.0,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.968422988371218,
+      "cpu_final_r": 8.17370866932514
+    },
+    {
+      "alpha": -9.0,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.126773241604385,
+      "cpu_final_r": 9.07153877828483
+    },
+    {
+      "alpha": -9.0,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.4357722905666,
+      "cpu_final_r": 10.352944800479042
+    },
+    {
+      "alpha": -9.0,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.881712859641093,
+      "cpu_final_r": 11.925729128697911
+    },
+    {
+      "alpha": -9.0,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.447494552314835,
+      "cpu_final_r": 13.699154933979106
+    },
+    {
+      "alpha": -9.0,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.115168670422406,
+      "cpu_final_r": 15.612495088276201
+    },
+    {
+      "alpha": -9.0,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.867776464074922,
+      "cpu_final_r": 17.617433198089245
+    },
+    {
+      "alpha": -9.0,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.69034680461251,
+      "cpu_final_r": 19.684345656188427
+    },
+    {
+      "alpha": -9.0,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.570227045917237,
+      "cpu_final_r": 21.7952833314065
+    },
+    {
+      "alpha": -9.0,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.49700871464601,
+      "cpu_final_r": 23.93587421277479
+    },
+    {
+      "alpha": -7.8,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.773643228355969,
+      "cpu_final_r": 16.168510157418776
+    },
+    {
+      "alpha": -7.8,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.794486447225127,
+      "cpu_final_r": 14.361786768952058
+    },
+    {
+      "alpha": -7.8,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.857182058394603,
+      "cpu_final_r": 12.66711635043881
+    },
+    {
+      "alpha": -7.8,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.972473480076617,
+      "cpu_final_r": 11.104029362782137
+    },
+    {
+      "alpha": -7.8,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.154080987710692,
+      "cpu_final_r": 9.699435062915603
+    },
+    {
+      "alpha": -7.8,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.419165816758893,
+      "cpu_final_r": 8.484815864386542
+    },
+    {
+      "alpha": -7.8,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.788373990397948,
+      "cpu_final_r": 7.502338356000731
+    },
+    {
+      "alpha": -7.8,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.2849473878549915,
+      "cpu_final_r": 6.796486605961504
+    },
+    {
+      "alpha": -7.8,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.932353361073192,
+      "cpu_final_r": 6.430003857488112
+    },
+    {
+      "alpha": -7.8,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.750331171247261,
+      "cpu_final_r": 6.474855255793798
+    },
+    {
+      "alpha": -7.8,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.750331171247261,
+      "cpu_final_r": 7.002139520566517
+    },
+    {
+      "alpha": -7.8,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.932353361073192,
+      "cpu_final_r": 8.01198111424806
+    },
+    {
+      "alpha": -7.8,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.2849473878549915,
+      "cpu_final_r": 9.4226365411863
+    },
+    {
+      "alpha": -7.8,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.788373990397948,
+      "cpu_final_r": 11.117187791867421
+    },
+    {
+      "alpha": -7.8,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.419165816758893,
+      "cpu_final_r": 12.996137725133558
+    },
+    {
+      "alpha": -7.8,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.154080987710692,
+      "cpu_final_r": 14.996665427188704
+    },
+    {
+      "alpha": -7.8,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.972473480076617,
+      "cpu_final_r": 17.072706060741677
+    },
+    {
+      "alpha": -7.8,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.857182058394603,
+      "cpu_final_r": 19.197900324822168
+    },
+    {
+      "alpha": -7.8,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.794486447225127,
+      "cpu_final_r": 21.35712102545969
+    },
+    {
+      "alpha": -7.8,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.773643228355969,
+      "cpu_final_r": 23.537953679904003
+    },
+    {
+      "alpha": -6.6,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.11990641798482,
+      "cpu_final_r": 15.376750899068627
+    },
+    {
+      "alpha": -6.6,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.087592799160197,
+      "cpu_final_r": 13.502493283484283
+    },
+    {
+      "alpha": -6.6,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.09042693508537,
+      "cpu_final_r": 11.733263812227296
+    },
+    {
+      "alpha": -6.6,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.138860776483854,
+      "cpu_final_r": 10.09006431033372
+    },
+    {
+      "alpha": -6.6,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.247035868923822,
+      "cpu_final_r": 8.60411106724377
+    },
+    {
+      "alpha": -6.6,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.433886470488682,
+      "cpu_final_r": 7.312749034262624
+    },
+    {
+      "alpha": -6.6,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.724025246805178,
+      "cpu_final_r": 6.259279627309404
+    },
+    {
+      "alpha": -6.6,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.147557410686196,
+      "cpu_final_r": 5.5070368325001
+    },
+    {
+      "alpha": -6.6,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.73744390666044,
+      "cpu_final_r": 5.1301872970302425
+    },
+    {
+      "alpha": -6.6,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.523374259824353,
+      "cpu_final_r": 5.2160736107681345
+    },
+    {
+      "alpha": -6.6,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.523374259824353,
+      "cpu_final_r": 5.838947391465932
+    },
+    {
+      "alpha": -6.6,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.73744390666044,
+      "cpu_final_r": 6.9890014861141925
+    },
+    {
+      "alpha": -6.6,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.147557410686196,
+      "cpu_final_r": 8.550304984886179
+    },
+    {
+      "alpha": -6.6,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.724025246805178,
+      "cpu_final_r": 10.37632632379317
+    },
+    {
+      "alpha": -6.6,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.433886470488682,
+      "cpu_final_r": 12.363218472052978
+    },
+    {
+      "alpha": -6.6,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.247035868923822,
+      "cpu_final_r": 14.448604916080251
+    },
+    {
+      "alpha": -6.6,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.138860776483854,
+      "cpu_final_r": 16.59197633048102
+    },
+    {
+      "alpha": -6.6,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.09042693508537,
+      "cpu_final_r": 18.77118730645743
+    },
+    {
+      "alpha": -6.6,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.087592799160197,
+      "cpu_final_r": 20.974480984905846
+    },
+    {
+      "alpha": -6.6,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.11990641798482,
+      "cpu_final_r": 23.19160387802818
+    },
+    {
+      "alpha": -5.4,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.546535013413141,
+      "cpu_final_r": 14.679086541026434
+    },
+    {
+      "alpha": -5.4,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.462014770996426,
+      "cpu_final_r": 12.737541810150477
+    },
+    {
+      "alpha": -5.4,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.404281818414189,
+      "cpu_final_r": 10.890763987062437
+    },
+    {
+      "alpha": -5.4,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.382535041888449,
+      "cpu_final_r": 9.16433420588713
+    },
+    {
+      "alpha": -5.4,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.410072124232705,
+      "cpu_final_r": 7.584814038987731
+    },
+    {
+      "alpha": -5.4,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.506239880926442,
+      "cpu_final_r": 6.192426740401545
+    },
+    {
+      "alpha": -5.4,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.698877642521123,
+      "cpu_final_r": 5.0441370341627145
+    },
+    {
+      "alpha": -5.4,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.026282127668652,
+      "cpu_final_r": 4.212168171765819
+    },
+    {
+      "alpha": -5.4,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.535846632647333,
+      "cpu_final_r": 3.800701462759704
+    },
+    {
+      "alpha": -5.4,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.275117088830632,
+      "cpu_final_r": 3.9332326773085198
+    },
+    {
+      "alpha": -5.4,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.275117088830632,
+      "cpu_final_r": 4.688819719379403
+    },
+    {
+      "alpha": -5.4,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.535846632647333,
+      "cpu_final_r": 6.01828953816967
+    },
+    {
+      "alpha": -5.4,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.026282127668652,
+      "cpu_final_r": 7.753893861654674
+    },
+    {
+      "alpha": -5.4,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.698877642521123,
+      "cpu_final_r": 9.717884758002182
+    },
+    {
+      "alpha": -5.4,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.506239880926442,
+      "cpu_final_r": 11.811047858240624
+    },
+    {
+      "alpha": -5.4,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.410072124232705,
+      "cpu_final_r": 13.976116011476673
+    },
+    {
+      "alpha": -5.4,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.382535041888449,
+      "cpu_final_r": 16.180861056592338
+    },
+    {
+      "alpha": -5.4,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.404281818414189,
+      "cpu_final_r": 18.408312994947494
+    },
+    {
+      "alpha": -5.4,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.462014770996426,
+      "cpu_final_r": 20.6504167493613
+    },
+    {
+      "alpha": -5.4,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.546535013413141,
+      "cpu_final_r": 22.899143939862114
+    },
+    {
+      "alpha": -4.2,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.064895011739521,
+      "cpu_final_r": 14.10000676987015
+    },
+    {
+      "alpha": -4.2,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.93149276156061,
+      "cpu_final_r": 12.09600022708572
+    },
+    {
+      "alpha": -4.2,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.81516690368153,
+      "cpu_final_r": 10.177267552333621
+    },
+    {
+      "alpha": -4.2,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.722563567683509,
+      "cpu_final_r": 8.365249027621385
+    },
+    {
+      "alpha": -4.2,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.663963141246684,
+      "cpu_final_r": 6.687240218829116
+    },
+    {
+      "alpha": -4.2,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.655768611375556,
+      "cpu_final_r": 5.185728811062116
+    },
+    {
+      "alpha": -4.2,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.724743953250246,
+      "cpu_final_r": 3.9131218897127096
+    },
+    {
+      "alpha": -4.2,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "captured",
+      "match": false,
+      "geokerr_min_r": 3.9144030593659074,
+      "cpu_final_r": 1.6690313624270443
+    },
+    {
+      "alpha": -4.2,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "captured",
+      "match": false,
+      "geokerr_min_r": 3.2912819188273645,
+      "cpu_final_r": 0.4438105889972437
+    },
+    {
+      "alpha": -4.2,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "captured",
+      "match": false,
+      "geokerr_min_r": 2.941922221913353,
+      "cpu_final_r": 1.7430832240807463
+    },
+    {
+      "alpha": -4.2,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 2.941922221913353,
+      "cpu_final_r": 3.5605202349137057
+    },
+    {
+      "alpha": -4.2,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "max_steps",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 3.2912819188273645,
+      "cpu_final_r": 5.129207300182556
+    },
+    {
+      "alpha": -4.2,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.9144030593659074,
+      "cpu_final_r": 7.057134910622754
+    },
+    {
+      "alpha": -4.2,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.724743953250246,
+      "cpu_final_r": 9.158919948294184
+    },
+    {
+      "alpha": -4.2,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.655768611375556,
+      "cpu_final_r": 11.351083579649345
+    },
+    {
+      "alpha": -4.2,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.663963141246684,
+      "cpu_final_r": 13.586936328812985
+    },
+    {
+      "alpha": -4.2,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.722563567683509,
+      "cpu_final_r": 15.844707360048222
+    },
+    {
+      "alpha": -4.2,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.81516690368153,
+      "cpu_final_r": 18.11307619627177
+    },
+    {
+      "alpha": -4.2,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.93149276156061,
+      "cpu_final_r": 20.38769439902999
+    },
+    {
+      "alpha": -4.2,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.064895011739521,
+      "cpu_final_r": 22.66264313674324
+    },
+    {
+      "alpha": -3.0,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.686352535264046,
+      "cpu_final_r": 13.6624124666154
+    },
+    {
+      "alpha": -3.0,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.510360063183029,
+      "cpu_final_r": 11.607677826139595
+    },
+    {
+      "alpha": -3.0,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.341139806077841,
+      "cpu_final_r": 9.628268803030473
+    },
+    {
+      "alpha": -3.0,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.1813064216843445,
+      "cpu_final_r": 7.744146053675462
+    },
+    {
+      "alpha": -3.0,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.03479454940253,
+      "cpu_final_r": 5.978934166520739
+    },
+    {
+      "alpha": -3.0,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.907272160714773,
+      "cpu_final_r": 4.371686182849633
+    },
+    {
+      "alpha": -3.0,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "captured",
+      "match": false,
+      "geokerr_min_r": 3.8037829519149575,
+      "cpu_final_r": -2.376295744908379e+87
+    },
+    {
+      "alpha": -3.0,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "captured",
+      "match": false,
+      "geokerr_min_r": 2.6730186285501625,
+      "cpu_final_r": -8.50694500777378e+87
+    },
+    {
+      "alpha": -3.0,
+      "beta": -1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -7.410679073716756e+87
+    },
+    {
+      "alpha": -3.0,
+      "beta": -0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.4806177430725689
+    },
+    {
+      "alpha": -3.0,
+      "beta": 0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.1649486515087544
+    },
+    {
+      "alpha": -3.0,
+      "beta": 1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 4.3637797762699195
+    },
+    {
+      "alpha": -3.0,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 2.6730186285501625,
+      "cpu_final_r": 6.490007274128047
+    },
+    {
+      "alpha": -3.0,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.8037829519149575,
+      "cpu_final_r": 8.718592905671496
+    },
+    {
+      "alpha": -3.0,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.907272160714773,
+      "cpu_final_r": 10.994620962823346
+    },
+    {
+      "alpha": -3.0,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.03479454940253,
+      "cpu_final_r": 13.288268704910177
+    },
+    {
+      "alpha": -3.0,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.1813064216843445,
+      "cpu_final_r": 15.588309590785133
+    },
+    {
+      "alpha": -3.0,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.341139806077841,
+      "cpu_final_r": 17.888797140666107
+    },
+    {
+      "alpha": -3.0,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.510360063183029,
+      "cpu_final_r": 20.188687338816017
+    },
+    {
+      "alpha": -3.0,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.686352535264046,
+      "cpu_final_r": 22.48385397853848
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.421363759858219,
+      "cpu_final_r": 13.38606695313906
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.212389182097741,
+      "cpu_final_r": 11.297828060579556
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.0005842986725,
+      "cpu_final_r": 9.279466410864975
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.783339564509058,
+      "cpu_final_r": 7.346867679677198
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.554012897617615,
+      "cpu_final_r": 5.5228685148542045
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.28989302147916,
+      "cpu_final_r": 3.842892298985209
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "captured",
+      "match": false,
+      "geokerr_min_r": 2.7789720564577745,
+      "cpu_final_r": -2.6346672707102448e+17
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -5.875517590488416e+86
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -2.476200470622811e+17
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": -0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -4.4067790787445003e+86
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -9.583079692243997e+86
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 3.7847413289657825
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 6.086946189061093
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 2.7789720564577745,
+      "cpu_final_r": 8.415385821387288
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.28989302147916,
+      "cpu_final_r": 10.751743401802369
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.554012897617615,
+      "cpu_final_r": 13.086225455301662
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.783339564509058,
+      "cpu_final_r": 15.415608223711255
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.0005842986725,
+      "cpu_final_r": 17.73814734879052
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.212389182097741,
+      "cpu_final_r": 20.055276470843882
+    },
+    {
+      "alpha": -1.8000000000000007,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.421363759858219,
+      "cpu_final_r": 22.364150777701163
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.27835668794559,
+      "cpu_final_r": 13.265204564150777
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.049187564845347,
+      "cpu_final_r": 11.16864594932099
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.810010437141748,
+      "cpu_final_r": 9.139748905014375
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.552932055714287,
+      "cpu_final_r": 7.194288131828978
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.257618689059467,
+      "cpu_final_r": 5.352372357333055
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.839069920508257,
+      "cpu_final_r": 3.6525011421598252
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -4.2,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.6796137269197506
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.277822717593038
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -1.1379154809312704e+85
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": -0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.469054942003321
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -47.471633648437255
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 3.475794432192685
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 5.880693087435439
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 4.199999999999999,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 8.262794810852645
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.839069920508257,
+      "cpu_final_r": 10.630097506557476
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.257618689059467,
+      "cpu_final_r": 12.985262472463154
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.552932055714287,
+      "cpu_final_r": 15.329407367997158
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.810010437141748,
+      "cpu_final_r": 17.66299827199195
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.049187564845347,
+      "cpu_final_r": 19.98876466338332
+    },
+    {
+      "alpha": -0.5999999999999996,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.27835668794559,
+      "cpu_final_r": 22.304478342701287
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.262595812364198,
+      "cpu_final_r": 13.341566273148413
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.028379193226202,
+      "cpu_final_r": 11.257203418379534
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.781106215126687,
+      "cpu_final_r": 9.242838883254064
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.5095085563193695,
+      "cpu_final_r": 7.314255771323
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.1821370905347335,
+      "cpu_final_r": 5.498843300404844
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.625076427033177,
+      "cpu_final_r": 3.830018985600021
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -4.2,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.7607346202639877
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 0.8247070257897233
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.5750945104519176
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": -0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -5.366611910305711e+16
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -1.6757572188305282e+84
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 3.5053840542002552
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 5.892101016745955
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 4.199999999999999,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 8.268925624620675
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.625076427033177,
+      "cpu_final_r": 10.633772541160456
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.1821370905347335,
+      "cpu_final_r": 12.987709676175497
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.5095085563193695,
+      "cpu_final_r": 15.331153816514364
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.781106215126687,
+      "cpu_final_r": 17.664307350378536
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.028379193226202,
+      "cpu_final_r": 19.98981410295411
+    },
+    {
+      "alpha": 0.5999999999999996,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.262595812364198,
+      "cpu_final_r": 22.305315078512766
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.375320108195002,
+      "cpu_final_r": 13.607062793390634
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.152068370197284,
+      "cpu_final_r": 11.552102391080489
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.917791847570726,
+      "cpu_final_r": 9.574456531007174
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.661484032089701,
+      "cpu_final_r": 7.693519932687345
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.351047354880171,
+      "cpu_final_r": 5.934491193643426
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.8021729418362593,
+      "cpu_final_r": 4.335418568637575
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -4.2,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 3.753059252567352
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.4531957445097934
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.6973068361529697
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": -0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": -1.4608785731884145e+82
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.75913329140469
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 3.8661764853787117
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 6.118796812989558
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 4.199999999999999,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 8.433392593751595
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.8021729418362593,
+      "cpu_final_r": 10.762629089487053
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.351047354880171,
+      "cpu_final_r": 13.093505289942795
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.661484032089701,
+      "cpu_final_r": 15.420816225796885
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.917791847570726,
+      "cpu_final_r": 17.742057069000584
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.152068370197284,
+      "cpu_final_r": 20.058413343575154
+    },
+    {
+      "alpha": 1.8000000000000007,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.375320108195002,
+      "cpu_final_r": 22.366653775142428
+    },
+    {
+      "alpha": 3.0,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.61344501173768,
+      "cpu_final_r": 14.013855962209938
+    },
+    {
+      "alpha": 3.0,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.416199846789013,
+      "cpu_final_r": 12.007440826389203
+    },
+    {
+      "alpha": 3.0,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.21466098640384,
+      "cpu_final_r": 10.087287234737845
+    },
+    {
+      "alpha": 3.0,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.001665997412422,
+      "cpu_final_r": 8.274122259106743
+    },
+    {
+      "alpha": 3.0,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.755606661633542,
+      "cpu_final_r": 6.5954772600544835
+    },
+    {
+      "alpha": 3.0,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.3751695460233515,
+      "cpu_final_r": 5.088547508825011
+    },
+    {
+      "alpha": 3.0,
+      "beta": -4.2,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 3.8046042805530713
+    },
+    {
+      "alpha": 3.0,
+      "beta": -3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 4.763779889403482
+    },
+    {
+      "alpha": 3.0,
+      "beta": -1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.7134118049851992
+    },
+    {
+      "alpha": 3.0,
+      "beta": -0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.6958578219465867
+    },
+    {
+      "alpha": 3.0,
+      "beta": 0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "captured",
+      "match": true,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 1.684005371707962
+    },
+    {
+      "alpha": 3.0,
+      "beta": 1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 4.480041935159259
+    },
+    {
+      "alpha": 3.0,
+      "beta": 3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 6.5396783962639375
+    },
+    {
+      "alpha": 3.0,
+      "beta": 4.199999999999999,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 8.747406862622261
+    },
+    {
+      "alpha": 3.0,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.3751695460233515,
+      "cpu_final_r": 11.012318934920236
+    },
+    {
+      "alpha": 3.0,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.755606661633542,
+      "cpu_final_r": 13.300201816049515
+    },
+    {
+      "alpha": 3.0,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.001665997412422,
+      "cpu_final_r": 15.59688729823875
+    },
+    {
+      "alpha": 3.0,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.21466098640384,
+      "cpu_final_r": 17.89525587489277
+    },
+    {
+      "alpha": 3.0,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.416199846789013,
+      "cpu_final_r": 20.193877811182823
+    },
+    {
+      "alpha": 3.0,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.61344501173768,
+      "cpu_final_r": 22.488001859468397
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.969966175392784,
+      "cpu_final_r": 14.557513742824968
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.811182035709994,
+      "cpu_final_r": 12.609420458053215
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.657944491770692,
+      "cpu_final_r": 10.758430567443302
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.5086346482717135,
+      "cpu_final_r": 9.021432219452272
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.35561599802864,
+      "cpu_final_r": 7.429278872619651
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.165383198937208,
+      "cpu_final_r": 6.015616190581644
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.528264700946207,
+      "cpu_final_r": 4.825192363880581
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 3.9101394976934127
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "escaped",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 90.2833781739917
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": -0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 10.429049500434585
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 3.8716791420805845
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 5.263482806827138
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 3.0,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 7.120616658826104
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.528264700946207,
+      "cpu_final_r": 9.19596763661964
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.165383198937208,
+      "cpu_final_r": 11.374990313697861
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.35561599802864,
+      "cpu_final_r": 13.603242493002353
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.5086346482717135,
+      "cpu_final_r": 15.856508642548354
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.657944491770692,
+      "cpu_final_r": 18.122000851725826
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.811182035709994,
+      "cpu_final_r": 20.394883713585656
+    },
+    {
+      "alpha": 4.199999999999999,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.969966175392784,
+      "cpu_final_r": 22.668401090713864
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.434950798128234,
+      "cpu_final_r": 15.215085919647635
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.32357259262724,
+      "cpu_final_r": 13.3316452438586
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.228660098592359,
+      "cpu_final_r": 11.54907715058819
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.153722522087598,
+      "cpu_final_r": 9.889697218069728
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.101992682788531,
+      "cpu_final_r": 8.377164470908765
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.073248908492931,
+      "cpu_final_r": 7.044577728644113
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.048380880507394,
+      "cpu_final_r": 5.926186998132702
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.7686331634449832,
+      "cpu_final_r": 5.068548225062903
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 4.533003395049243
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": -0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 4.435073273685441
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 0.5999999999999996,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 4.9634939645388085
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 1.8000000000000007,
+      "ncase": 5,
+      "geokerr_status": "captured",
+      "cpu_status": "disk",
+      "match": false,
+      "geokerr_min_r": 1.7170045144049304,
+      "cpu_final_r": 6.157672358356367
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 3.7686331634449832,
+      "cpu_final_r": 7.8271622846009254
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.048380880507394,
+      "cpu_final_r": 9.761046246989105
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.073248908492931,
+      "cpu_final_r": 11.84042756918785
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.101992682788531,
+      "cpu_final_r": 13.996438327368258
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.153722522087598,
+      "cpu_final_r": 16.19569487097937
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.228660098592359,
+      "cpu_final_r": 18.419593101864564
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.32357259262724,
+      "cpu_final_r": 20.65953150709353
+    },
+    {
+      "alpha": 5.399999999999999,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.434950798128234,
+      "cpu_final_r": 22.906464887566703
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.996803566858926,
+      "cpu_final_r": 15.965045979294226
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.938159102703956,
+      "cpu_final_r": 14.143630643183457
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.906299973878077,
+      "cpu_final_r": 12.427730119504044
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.908328524617595,
+      "cpu_final_r": 10.836892033111276
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.953634067501745,
+      "cpu_final_r": 9.394827621256786
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.054699352170485,
+      "cpu_final_r": 8.125769037675816
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.228373297254609,
+      "cpu_final_r": 7.062330906948742
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.498695198120353,
+      "cpu_final_r": 6.241739705131299
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.9060115626254195,
+      "cpu_final_r": 5.726815395030959
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.536854381179255,
+      "cpu_final_r": 5.626483162984543
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.536854381179255,
+      "cpu_final_r": 6.083259066520181
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 4.9060115626254195,
+      "cpu_final_r": 7.125558015414853
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 5.498695198120353,
+      "cpu_final_r": 8.629925113862567
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.228373297254609,
+      "cpu_final_r": 10.42533928569147
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.054699352170485,
+      "cpu_final_r": 12.39727772424445
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.953634067501745,
+      "cpu_final_r": 14.472537207993646
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.908328524617595,
+      "cpu_final_r": 16.609617982204494
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.906299973878077,
+      "cpu_final_r": 18.784690120482153
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.938159102703956,
+      "cpu_final_r": 20.985432038232496
+    },
+    {
+      "alpha": 6.600000000000001,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.996803566858926,
+      "cpu_final_r": 23.200429976726646
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.64346455467234,
+      "cpu_final_r": 16.784779362275255
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.639758375703284,
+      "cpu_final_r": 15.020045772963398
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.671578392949593,
+      "cpu_final_r": 13.365829579173614
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.747971746829617,
+      "cpu_final_r": 11.835716613878054
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.880844659266945,
+      "cpu_final_r": 10.449890845584116
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.085985725324239,
+      "cpu_final_r": 9.230588165756535
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.384454880648379,
+      "cpu_final_r": 8.208730348500206
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.80425463782589,
+      "cpu_final_r": 7.417078940780036
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.381216882999916,
+      "cpu_final_r": 6.923670045664576
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.1551094095625745,
+      "cpu_final_r": 6.8216804360412135
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.1551094095625745,
+      "cpu_final_r": 7.221578514027029
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.381216882999916,
+      "cpu_final_r": 8.144019387711493
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 6.80425463782589,
+      "cpu_final_r": 9.50595669189132
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.384454880648379,
+      "cpu_final_r": 11.170653077141594
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.085985725324239,
+      "cpu_final_r": 13.034088233147855
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.880844659266945,
+      "cpu_final_r": 15.023778773862594
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.747971746829617,
+      "cpu_final_r": 17.09290901452043
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.671578392949593,
+      "cpu_final_r": 19.213476455587564
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.639758375703284,
+      "cpu_final_r": 21.36980673836741
+    },
+    {
+      "alpha": 7.800000000000001,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.64346455467234,
+      "cpu_final_r": 23.548218066739533
+    },
+    {
+      "alpha": 9.0,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.363317785420447,
+      "cpu_final_r": 17.65548522693819
+    },
+    {
+      "alpha": 9.0,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.414393554274058,
+      "cpu_final_r": 15.945338781341585
+    },
+    {
+      "alpha": 9.0,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.507813350130721,
+      "cpu_final_r": 14.3417841567928
+    },
+    {
+      "alpha": 9.0,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.653295525114215,
+      "cpu_final_r": 12.862717308211616
+    },
+    {
+      "alpha": 9.0,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.863103379910951,
+      "cpu_final_r": 11.523705356819422
+    },
+    {
+      "alpha": 9.0,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.152589137957992,
+      "cpu_final_r": 10.346775689078727
+    },
+    {
+      "alpha": 9.0,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.540599739361394,
+      "cpu_final_r": 9.357908013534455
+    },
+    {
+      "alpha": 9.0,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.049324003683854,
+      "cpu_final_r": 8.595347300544525
+    },
+    {
+      "alpha": 9.0,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.7027481749397335,
+      "cpu_final_r": 8.120766835726057
+    },
+    {
+      "alpha": 9.0,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.522703255129366,
+      "cpu_final_r": 8.018487669888739
+    },
+    {
+      "alpha": 9.0,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.522703255129366,
+      "cpu_final_r": 8.372676267733615
+    },
+    {
+      "alpha": 9.0,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 7.7027481749397335,
+      "cpu_final_r": 9.199226036775565
+    },
+    {
+      "alpha": 9.0,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.049324003683854,
+      "cpu_final_r": 10.438041285693238
+    },
+    {
+      "alpha": 9.0,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.540599739361394,
+      "cpu_final_r": 11.982437078491873
+    },
+    {
+      "alpha": 9.0,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.152589137957992,
+      "cpu_final_r": 13.740029212934331
+    },
+    {
+      "alpha": 9.0,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.863103379910951,
+      "cpu_final_r": 15.64236048356502
+    },
+    {
+      "alpha": 9.0,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.653295525114215,
+      "cpu_final_r": 17.639940258698882
+    },
+    {
+      "alpha": 9.0,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.507813350130721,
+      "cpu_final_r": 19.701834746896896
+    },
+    {
+      "alpha": 9.0,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.414393554274058,
+      "cpu_final_r": 21.809592961768722
+    },
+    {
+      "alpha": 9.0,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.363317785420447,
+      "cpu_final_r": 23.94750287549974
+    },
+    {
+      "alpha": 10.2,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.145748910413435,
+      "cpu_final_r": 18.56450162574864
+    },
+    {
+      "alpha": 10.2,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.249856779979341,
+      "cpu_final_r": 16.90144152032454
+    },
+    {
+      "alpha": 10.2,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.401265987702809,
+      "cpu_final_r": 15.344693224726676
+    },
+    {
+      "alpha": 10.2,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.609549915918706,
+      "cpu_final_r": 13.90817976399864
+    },
+    {
+      "alpha": 10.2,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.886253038663481,
+      "cpu_final_r": 12.6086724513314
+    },
+    {
+      "alpha": 10.2,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.245032784985986,
+      "cpu_final_r": 11.46613146395497
+    },
+    {
+      "alpha": 10.2,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.701515415513965,
+      "cpu_final_r": 10.50719559864823
+    },
+    {
+      "alpha": 10.2,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.27259307638842,
+      "cpu_final_r": 9.770981019048255
+    },
+    {
+      "alpha": 10.2,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.974850002210056,
+      "cpu_final_r": 9.317247469155355
+    },
+    {
+      "alpha": 10.2,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.822020327346356,
+      "cpu_final_r": 9.216263716596576
+    },
+    {
+      "alpha": 10.2,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.822020327346356,
+      "cpu_final_r": 9.532904172563414
+    },
+    {
+      "alpha": 10.2,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 8.974850002210056,
+      "cpu_final_r": 10.280735991874241
+    },
+    {
+      "alpha": 10.2,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.27259307638842,
+      "cpu_final_r": 11.413442407750408
+    },
+    {
+      "alpha": 10.2,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 9.701515415513965,
+      "cpu_final_r": 12.84863788629508
+    },
+    {
+      "alpha": 10.2,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.245032784985986,
+      "cpu_final_r": 14.505301992060842
+    },
+    {
+      "alpha": 10.2,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.886253038663481,
+      "cpu_final_r": 16.32078112286094
+    },
+    {
+      "alpha": 10.2,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.609549915918706,
+      "cpu_final_r": 18.24506358758668
+    },
+    {
+      "alpha": 10.2,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.401265987702809,
+      "cpu_final_r": 20.245502858756662
+    },
+    {
+      "alpha": 10.2,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.249856779979341,
+      "cpu_final_r": 22.301546529307853
+    },
+    {
+      "alpha": 10.2,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.145748910413435,
+      "cpu_final_r": 24.395778044713687
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -11.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.981401473972749,
+      "cpu_final_r": 19.501363874014555
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.135834196492107,
+      "cpu_final_r": 17.87895349941618
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.340921702961666,
+      "cpu_final_r": 16.36286509874516
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -7.8,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.60564315238692,
+      "cpu_final_r": 14.96408394867583
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -6.6,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.94038858432845,
+      "cpu_final_r": 13.698744650763828
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.356873010214807,
+      "cpu_final_r": 12.588110642221558
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -4.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.867785192304904,
+      "cpu_final_r": 11.658850607473097
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.48604289445034,
+      "cpu_final_r": 10.949827208871753
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.223578549855455,
+      "cpu_final_r": 10.513761939069266
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": -0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.089750642518096,
+      "cpu_final_r": 10.414673851707205
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 0.5999999999999996,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.089750642518096,
+      "cpu_final_r": 10.69986921437968
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 1.8000000000000007,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.223578549855455,
+      "cpu_final_r": 11.381443876245974
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 3.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.48604289445034,
+      "cpu_final_r": 12.422737935716697
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 4.199999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 10.867785192304904,
+      "cpu_final_r": 13.75947171620992
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 5.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.356873010214807,
+      "cpu_final_r": 15.32130314500804
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 6.600000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 11.94038858432845,
+      "cpu_final_r": 17.05206146268008
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 7.800000000000001,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 12.60564315238692,
+      "cpu_final_r": 18.902793717104164
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 9.0,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 13.340921702961666,
+      "cpu_final_r": 20.840207799536547
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 10.2,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.135834196492107,
+      "cpu_final_r": 22.842335343736288
+    },
+    {
+      "alpha": 11.399999999999999,
+      "beta": 11.399999999999999,
+      "ncase": 7,
+      "geokerr_status": "disk",
+      "cpu_status": "disk",
+      "match": true,
+      "geokerr_min_r": 14.981401473972749,
+      "cpu_final_r": 24.890422129740628
+    }
+  ]
+}

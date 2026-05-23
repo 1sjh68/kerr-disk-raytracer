@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; Enable GPU profiling for Nsight Compute / ncu in WSL2
+; Fixes ERR_NVGPUCTRPERM when running ncu under WSL2
+; Path: HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\GPU Profiling
+; Restart WSL2 after import:  wsl --shutdown
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\GPU Profiling]
+"EnableGpuProfiling"=dword:00000001

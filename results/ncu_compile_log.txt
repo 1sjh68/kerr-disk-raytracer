@@ -1,0 +1,5 @@
+ptxas info    : 24 bytes gmem
+ptxas info    : Compiling entry function '_Z20kerr_geodesic_kerneliiffffffiffiffPfS_S_PhS0_S_' for 'sm_89'
+ptxas info    : Function properties for _Z20kerr_geodesic_kerneliiffffffiffiffPfS_S_PhS0_S_
+    32 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 82 registers, 456 bytes cmem[0], 8 bytes cmem[2]

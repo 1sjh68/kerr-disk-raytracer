@@ -1,0 +1,12 @@
+{
+  "backend": "cuda",
+  "backend_reason": "cupy_cuda_devices=1; device0=NVIDIA GeForce RTX 4060 Laptop GPU",
+  "intensity_mse": 5.974770441827629e-19,
+  "intensity_mae": 2.2962567389674755e-10,
+  "intensity_max_error": 1.4901161193847656e-08,
+  "intensity_relative_mae": 3.4413636130618964e-07,
+  "hit_mask_mismatch_fraction": 0.0,
+  "rgb_mse": 6.9951109159278645e-15,
+  "rgb_mae": 5.790737607943205e-08,
+  "rgb_max_error": 6.854534149169922e-07
+}

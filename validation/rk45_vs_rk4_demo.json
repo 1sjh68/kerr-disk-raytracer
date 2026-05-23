@@ -1,0 +1,116 @@
+{
+  "geokerr_path": "research\\repos\\geokerr\\geokerr_code\\abgrid_r60.out",
+  "a": 0.7,
+  "inclination_deg": 60.00000000000001,
+  "r_obs_cpu": 1000.0,
+  "rk4_step_size": 0.35,
+  "rk45_atol": 1e-08,
+  "rk45_rtol": 1e-06,
+  "rays": [
+    {
+      "alpha": 0.6,
+      "beta": 0.6,
+      "geokerr_ncase": 5,
+      "rk4": {
+        "status": "captured",
+        "steps": 2856,
+        "wall_s": 1.5117,
+        "null_error": 1e+30,
+        "rms_dr_over_r": 0.09630011008572698,
+        "rms_dtheta_rad": 0.36950923195740304
+      },
+      "rk45": {
+        "status": "captured",
+        "steps": 232,
+        "wall_s": 0.284,
+        "null_error": 3.238619921119845e-05,
+        "rms_dr_over_r": 0.09383128542435966,
+        "rms_dtheta_rad": 0.3696520001646406
+      }
+    },
+    {
+      "alpha": -3.0,
+      "beta": -3.0,
+      "geokerr_ncase": 7,
+      "rk4": {
+        "status": "captured",
+        "steps": 2862,
+        "wall_s": 1.4307,
+        "null_error": 1e+30,
+        "rms_dr_over_r": 0.2222230828445927,
+        "rms_dtheta_rad": 0.5169654159086651
+      },
+      "rk45": {
+        "status": "captured",
+        "steps": 236,
+        "wall_s": 0.2664,
+        "null_error": 7.532489790307295e-05,
+        "rms_dr_over_r": 0.2611516006218578,
+        "rms_dtheta_rad": 0.43618497664500333
+      }
+    },
+    {
+      "alpha": 5.4,
+      "beta": -5.4,
+      "geokerr_ncase": 7,
+      "rk4": {
+        "status": "disk",
+        "steps": 2873,
+        "wall_s": 1.4888,
+        "null_error": 0.0003860730329473261,
+        "rms_dr_over_r": 0.22012883785089982,
+        "rms_dtheta_rad": 0.43979166309219625
+      },
+      "rk45": {
+        "status": "disk",
+        "steps": 220,
+        "wall_s": 0.2148,
+        "null_error": 0.002007879928484224,
+        "rms_dr_over_r": 0.21939436005070992,
+        "rms_dtheta_rad": 0.41758929040595755
+      }
+    },
+    {
+      "alpha": 3.0,
+      "beta": 3.0,
+      "geokerr_ncase": 5,
+      "rk4": {
+        "status": "disk",
+        "steps": 2845,
+        "wall_s": 1.413,
+        "null_error": 1.7375981985950917e-05,
+        "rms_dr_over_r": 1.4005530541420794,
+        "rms_dtheta_rad": 0.5345910266170161
+      },
+      "rk45": {
+        "status": "disk",
+        "steps": 204,
+        "wall_s": 0.2078,
+        "null_error": 0.0009522188430110684,
+        "rms_dr_over_r": 1.321087270566919,
+        "rms_dtheta_rad": 0.5443919003383132
+      }
+    },
+    {
+      "alpha": -1.8,
+      "beta": -1.8,
+      "geokerr_ncase": 5,
+      "rk4": {
+        "status": "captured",
+        "steps": 2857,
+        "wall_s": 1.4468,
+        "null_error": 1e+30,
+        "rms_dr_over_r": 0.16140262381029255,
+        "rms_dtheta_rad": 0.9860574711513472
+      },
+      "rk45": {
+        "status": "captured",
+        "steps": 233,
+        "wall_s": 0.2525,
+        "null_error": 5.3063834998257065e-05,
+        "rms_dr_over_r": 0.1885919789801279,
+        "rms_dtheta_rad": 0.9623580176200498
+      }
+    }
+  ]
+}

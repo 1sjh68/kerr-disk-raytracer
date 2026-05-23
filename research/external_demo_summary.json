@@ -1,0 +1,45 @@
+{
+  "status": "partial_external_validation",
+  "geokerr": {
+    "available": true,
+    "path": "research\\repos\\geokerr\\geokerr_code\\abgrid.out",
+    "line_count": 801,
+    "header": {
+      "n_geodesics": 400,
+      "observer_mu": 0.0,
+      "spin": 0.998,
+      "lambda": 1.85459940652819e-06
+    },
+    "parsed_pairs": 400,
+    "alpha_min": -3.7,
+    "alpha_max": 7.699999999999999,
+    "beta_min": -5.7,
+    "beta_max": 5.699999999999999,
+    "first_value_min": 1.85709319e-06,
+    "first_value_max": 0.940544484,
+    "first_value_mean": 0.5031921637194141,
+    "plot": "research\\reproduction\\geokerr_abgrid_points.png"
+  },
+  "odyssey": {
+    "available": true,
+    "path": "research\\repos\\Odyssey\\build_attempt.log",
+    "build_attempted": true,
+    "docker_build_succeeded": false,
+    "contains_cuda_header_error": true,
+    "tail": "./src/main.cpp:26:10: fatal error: cuda.h: No such file or directory\n   26 | #include <cuda.h>\n      |          ^~~~~~~~\ncompilation terminated.\nmake: *** [Makefile:14: cpp] Error 1",
+    "wsl2": {
+      "available": true,
+      "path": "research\\repos\\Odyssey\\Output_task2.txt",
+      "wsl2_build_succeeded": true,
+      "output_lines": 16384,
+      "note": "128x128 thermal syn image generated in WSL2 Ubuntu + CUDA Toolkit 12.0"
+    },
+    "wsl2_build_succeeded": true,
+    "build_succeeded": false
+  },
+  "interpretation": [
+    "geokerr abgrid.in ran successfully (Docker + gfortran).",
+    "Odyssey Docker build fails without CUDA dev headers; WSL2 + CUDA Toolkit build succeeded (Output_task2.txt).",
+    "geokerr provides trajectory-level cross-validation (87% original abgrid agreement; 91.25% strict status agreement for a=0.7, i=60deg)."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "method": "cuda_fast_thin_disk_rawkernel",
+  "resolution": 128,
+  "spin": 0.7,
+  "inclination_deg": 60.0,
+  "inner_radius": 3.3931284701816304,
+  "outer_radius": 28.0,
+  "elapsed_s": 0.0035271000015200116,
+  "intensity_max": 0.02314099483191967,
+  "redshift_min": 0.550000011920929,
+  "redshift_max": 1.1709431409835815,
+  "hit_fraction": 0.9595947265625,
+  "gpu_kernel_elapsed_s": 1.945599913597107e-05,
+  "cuda_block": "16x16",
+  "backend": "cuda",
+  "backend_reason": "cupy_cuda_devices=1; device0=NVIDIA GeForce RTX 4060 Laptop GPU"
+}

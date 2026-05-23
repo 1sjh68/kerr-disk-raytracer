@@ -1,0 +1,13 @@
+{
+  "method": "fast_thin_disk_screen_model",
+  "resolution": 128,
+  "spin": 0.7,
+  "inclination_deg": 60.0,
+  "inner_radius": 3.3931284701816304,
+  "outer_radius": 28.0,
+  "elapsed_s": 0.006742700001268531,
+  "intensity_max": 0.02314099110662937,
+  "redshift_min": 0.550000011920929,
+  "redshift_max": 1.170943260192871,
+  "hit_fraction": 0.9595947265625
+}

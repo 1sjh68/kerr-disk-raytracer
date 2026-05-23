@@ -1,0 +1,6 @@
+numpy>=2.0
+matplotlib>=3.8
+pytest>=8.0
+PyYAML>=6.0
+
+# Optional CUDA runtime is listed separately in requirements-cuda.txt.

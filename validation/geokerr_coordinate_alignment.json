@@ -1,0 +1,101 @@
+{
+  "geokerr_path": "research\\repos\\geokerr\\geokerr_code\\abgrid_r60.out",
+  "a": 0.7,
+  "inclination_deg": 60.00000000000001,
+  "r_obs_geokerr": 4147200.0,
+  "r_obs_cpu": 1000.0,
+  "step_size": 0.35,
+  "max_steps": 5000,
+  "rays": [
+    {
+      "alpha": 0.6,
+      "beta": 0.6,
+      "ncase": 5,
+      "geokerr_nup": 300,
+      "cpu_status": "captured",
+      "cpu_steps": 2856,
+      "alignment_error": {
+        "matched": 300,
+        "rms_dr_over_r": 0.09630011008572698,
+        "p95_dr_over_r": 0.20390681289851056,
+        "max_dr_over_r": 0.2368585176733824,
+        "rms_dtheta_rad": 0.36950923195740304,
+        "p95_dtheta_rad": 0.5800698878564289,
+        "max_dtheta_rad": 0.5919647627175689
+      }
+    },
+    {
+      "alpha": -3.0,
+      "beta": -3.0,
+      "ncase": 7,
+      "geokerr_nup": 300,
+      "cpu_status": "captured",
+      "cpu_steps": 2862,
+      "alignment_error": {
+        "matched": 300,
+        "rms_dr_over_r": 0.2222230828445927,
+        "p95_dr_over_r": 0.5074583701017428,
+        "max_dr_over_r": 0.5514604649818518,
+        "rms_dtheta_rad": 0.5169654159086651,
+        "p95_dtheta_rad": 1.0703120661443821,
+        "max_dtheta_rad": 1.1359489031664738
+      }
+    },
+    {
+      "alpha": 5.4,
+      "beta": -5.4,
+      "ncase": 7,
+      "geokerr_nup": 300,
+      "cpu_status": "disk",
+      "cpu_steps": 2873,
+      "alignment_error": {
+        "matched": 300,
+        "rms_dr_over_r": 0.2201288378508998,
+        "p95_dr_over_r": 0.46995925257282345,
+        "max_dr_over_r": 0.5484835531930267,
+        "rms_dtheta_rad": 0.43979166309219625,
+        "p95_dtheta_rad": 0.7616508168815395,
+        "max_dtheta_rad": 0.8839900704989596
+      }
+    },
+    {
+      "alpha": 3.0,
+      "beta": 3.0,
+      "ncase": 5,
+      "geokerr_nup": 300,
+      "cpu_status": "disk",
+      "cpu_steps": 2845,
+      "alignment_error": {
+        "matched": 300,
+        "rms_dr_over_r": 1.4005530541420794,
+        "p95_dr_over_r": 2.6066944417030347,
+        "max_dr_over_r": 2.796186829994232,
+        "rms_dtheta_rad": 0.5345910266170161,
+        "p95_dtheta_rad": 0.847254475533739,
+        "max_dtheta_rad": 0.8636596885545541
+      }
+    },
+    {
+      "alpha": -1.8,
+      "beta": -1.8,
+      "ncase": 5,
+      "geokerr_nup": 300,
+      "cpu_status": "captured",
+      "cpu_steps": 2857,
+      "alignment_error": {
+        "matched": 300,
+        "rms_dr_over_r": 0.16140262381029255,
+        "p95_dr_over_r": 0.2930078193456736,
+        "max_dr_over_r": 0.3496960799795219,
+        "rms_dtheta_rad": 0.9860574711513472,
+        "p95_dtheta_rad": 1.523062827432323,
+        "max_dtheta_rad": 1.578581455489196
+      }
+    }
+  ],
+  "overall": {
+    "rays_compared": 5,
+    "median_rms_dr_over_r": 0.2201288378508998,
+    "median_rms_dtheta_rad": 0.5169654159086651
+  }
+}

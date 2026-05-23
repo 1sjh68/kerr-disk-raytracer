@@ -1,0 +1,30 @@
+{
+  "cuda_available": true,
+  "cuda_reason": "cupy_cuda_devices=1; device0=NVIDIA GeForce RTX 4060 Laptop GPU",
+  "runs": [
+    {
+      "resolution": 128,
+      "time_s": 0.006074699995224364,
+      "method": "fast_thin_disk_screen_model",
+      "backend": "cpu"
+    },
+    {
+      "resolution": 256,
+      "time_s": 0.031045800002175383,
+      "method": "fast_thin_disk_screen_model",
+      "backend": "cpu"
+    },
+    {
+      "resolution": 512,
+      "time_s": 0.14535740000428632,
+      "method": "fast_thin_disk_screen_model",
+      "backend": "cpu"
+    },
+    {
+      "resolution": 1024,
+      "time_s": 0.69184690000111,
+      "method": "fast_thin_disk_screen_model",
+      "backend": "cpu"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "resolution": 48,
+    "pixels": 2304,
+    "wall_time_s": 0.0255,
+    "kernel_time_s": 0.0243,
+    "ms_per_megapixel": 10.56
+  },
+  {
+    "resolution": 64,
+    "pixels": 4096,
+    "wall_time_s": 0.0296,
+    "kernel_time_s": 0.0283,
+    "ms_per_megapixel": 6.9
+  },
+  {
+    "resolution": 96,
+    "pixels": 9216,
+    "wall_time_s": 0.0262,
+    "kernel_time_s": 0.0242,
+    "ms_per_megapixel": 2.63
+  },
+  {
+    "resolution": 128,
+    "pixels": 16384,
+    "wall_time_s": 0.0412,
+    "kernel_time_s": 0.0376,
+    "ms_per_megapixel": 2.3
+  },
+  {
+    "resolution": 160,
+    "pixels": 25600,
+    "wall_time_s": 0.0555,
+    "kernel_time_s": 0.0489,
+    "ms_per_megapixel": 1.91
+  },
+  {
+    "resolution": 192,
+    "pixels": 36864,
+    "wall_time_s": 0.0768,
+    "kernel_time_s": 0.0685,
+    "ms_per_megapixel": 1.86
+  },
+  {
+    "resolution": 256,
+    "pixels": 65536,
+    "wall_time_s": 0.133,
+    "kernel_time_s": 0.1143,
+    "ms_per_megapixel": 1.74
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "cuda_available": true,
+  "cuda_reason": "cupy_cuda_devices=1; device0=NVIDIA GeForce RTX 4060 Laptop GPU",
+  "runs": [
+    {
+      "resolution": 128,
+      "time_s": 0.003180799998517614,
+      "gpu_kernel_elapsed_s": 3.3792000263929365e-05,
+      "method": "cuda_fast_thin_disk_rawkernel",
+      "backend": "cuda",
+      "backend_reason": "cupy_cuda_devices=1; device0=NVIDIA GeForce RTX 4060 Laptop GPU",
+      "cuda_block": "16x16",
+      "speedup_vs_cpu": 1.9098025647810075
+    },
+    {
+      "resolution": 256,
+      "time_s": 0.020123100002820138,
+      "gpu_kernel_elapsed_s": 8.089599758386612e-05,
+      "method": "cuda_fast_thin_disk_rawkernel",
+      "backend": "cuda",
+      "backend_reason": "cupy_cuda_devices=1; device0=NVIDIA GeForce RTX 4060 Laptop GPU",
+      "cuda_block": "16x16",
+      "speedup_vs_cpu": 1.5427941021922313
+    },
+    {
+      "resolution": 512,
+      "time_s": 0.08931209999718703,
+      "gpu_kernel_elapsed_s": 0.00014847999811172486,
+      "method": "cuda_fast_thin_disk_rawkernel",
+      "backend": "cuda",
+      "backend_reason": "cupy_cuda_devices=1; device0=NVIDIA GeForce RTX 4060 Laptop GPU",
+      "cuda_block": "16x16",
+      "speedup_vs_cpu": 1.6275219148230138
+    },
+    {
+      "resolution": 1024,
+      "time_s": 0.3718670999951428,
+      "gpu_kernel_elapsed_s": 0.0005642240047454834,
+      "method": "cuda_fast_thin_disk_rawkernel",
+      "backend": "cuda",
+      "backend_reason": "cupy_cuda_devices=1; device0=NVIDIA GeForce RTX 4060 Laptop GPU",
+      "cuda_block": "16x16",
+      "speedup_vs_cpu": 1.8604681619055483
+    }
+  ],
+  "block_results": [
+    {
+      "resolution": 512,
+      "cuda_block": "8x8",
+      "time_s": 0.08492539999861037,
+      "gpu_kernel_elapsed_s": 0.00019353599846363067,
+      "backend": "cuda"
+    },
+    {
+      "resolution": 512,
+      "cuda_block": "16x16",
+      "time_s": 0.08506280000437982,
+      "gpu_kernel_elapsed_s": 0.0001822720021009445,
+      "backend": "cuda"
+    },
+    {
+      "resolution": 512,
+      "cuda_block": "32x8",
+      "time_s": 0.0838854999965406,
+      "gpu_kernel_elapsed_s": 0.0001812479943037033,
+      "backend": "cuda"
+    }
+  ]
+}

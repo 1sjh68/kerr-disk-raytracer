@@ -1,0 +1,52 @@
+# --- Python ---
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# --- Agent / IDE scratch ---
+.codex_resources.json
+.cursor/
+.kiro/
+.aider*
+
+# --- CUDA profiling build artifacts (sources kept) ---
+cuda/profile_geodesic
+cuda/profile_geodesic.exe
+cuda/*.ptx
+cuda/*.o
+cuda/*.cubin
+
+# --- Presentation build cache ---
+paper/presentation/build/node_modules/
+paper/presentation/preview/
+paper/presentation/scratch/
+paper/presentation/inspect.json
+
+# --- External clones (large; fetch separately) ---
+research/repos/
+
+# --- Run-time large artifacts ---
+# .npz reference packs are kept; .npy individual copies are runtime-only redundancy
+reference/*.npy
+output/*.npz                          # 1+ MB runtime renders; rerun run_*.py to regenerate
+output/*.npy
+results/ncu_*.ncu-rep                 # Nsight Compute profile binaries (only after one-shot UAC run)
+
+# --- Profile / debug logs ---
+*.log
+*.trace
+$env:TEMP/*
+
+# --- Optional local overrides ---
+.env
+*.local.yaml
+*.local.json
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Kerr Thin-Disk CPU/GPU Ray-Tracing MVP"
+authors:
+  - family-names: "Project"
+    given-names: "Black Hole"
+version: "0.1.0"
+date-released: "2026-05-21"
+license: "MIT"
+

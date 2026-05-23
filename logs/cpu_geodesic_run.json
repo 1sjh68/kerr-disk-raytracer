@@ -1,0 +1,26 @@
+{
+  "method": "hamiltonian_geodesic_cpu",
+  "resolution": 48,
+  "spin": 0.7,
+  "inclination_deg": 60.0,
+  "inner_radius": 3.3931284701816304,
+  "outer_radius": 28.0,
+  "elapsed_s": 34.925494700000854,
+  "intensity_max": 0.039368100464344025,
+  "redshift_min": 0.3327797055244446,
+  "redshift_max": 1.2212756872177124,
+  "hit_fraction": 0.9175347222222222,
+  "status_counts": {
+    "disk": 2114,
+    "captured": 182,
+    "escaped": 8,
+    "max_steps": 0,
+    "invalid": 0
+  },
+  "null_error_max": 1000000.0,
+  "null_error_mean": 79427.08479803446,
+  "disk_null_error_max": 0.24162377417087555,
+  "disk_null_error_mean": 0.0015963240663876823,
+  "step_size": 0.35,
+  "max_steps": 700
+}
