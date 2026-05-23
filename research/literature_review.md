@@ -1,4 +1,4 @@
-# Kerr 黑洞吸积盘光线追踪文献综述
+﻿# Kerr 黑洞吸积盘光线追踪文献综述
 
 更新时间：2026-05-21
 
@@ -206,7 +206,7 @@ EHT 给出的两条最可对照的指标是 **ring diameter** 和 **ring asymmet
 | P1 | YNOGK | turning point 与 root-finding | event detection 设计参考 |
 | P1 | Odyssey | CUDA 并行结构 | 设计 GPU 数据结构和 kernel layout |
 | P2 | grtrans | 完整 GRRT 工程组织 | 后期配置与调试 maps 参考 |
-| P2 | ipole | 偏振扩展 | 可选博士级扩展 |
+| P2 | ipole | 偏振扩展 | 可选扩展工作 |
 | P2 | EHT papers | 报告中的观测语境 | 指标讨论，不作像素级 truth |
 
 ## 8. 立即落地的技术选择

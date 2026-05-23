@@ -1,4 +1,4 @@
-# Kerr 黑洞薄盘 CPU/GPU 光线追踪
+﻿# Kerr 黑洞薄盘 CPU/GPU 光线追踪
 
 可复现的 Kerr 黑洞 thin-disk 广义相对论光线追踪项目：CPU 高精度基准、CuPy/CUDA 并行 geodesic kernel、验证矩阵、性能评估与论文级产物。
 
@@ -151,7 +151,7 @@ black_hole/
 
 - Windows 宿主机系统级 `nvcc` 通常不在 PATH；CuPy + PyPI CUDA wheels 已满足 RawKernel 编译。WSL2 路径下 ncu 在 driver 566.07 不可行，详见 [`results/wsl_profile_report.md`](results/wsl_profile_report.md)；推荐用 Windows host 路径 [`tools/run_ncu_pipeline.ps1`](tools/run_ncu_pipeline.ps1)。
 - geokerr 临界光线 captured/disk 边界为浮点精度本质性差异（46% 一致），需 Carlson 椭圆积分半解析路线根除。
-- 博士级扩展中：偏振、GRMHD、EHT 风格指标已 stub；完整 polarized radiative transfer、GRMHD time-evolved ingestion、多 GPU、可微 ray tracing、神经网络 surrogate 留作后续（见 [`docs/extensions_roadmap.md`](docs/extensions_roadmap.md)）。
+- 扩展工作中：偏振、GRMHD、EHT 风格指标已 stub；完整 polarized radiative transfer、GRMHD time-evolved ingestion、多 GPU、可微 ray tracing、神经网络 surrogate 留作后续（见 [`docs/extensions_roadmap.md`](docs/extensions_roadmap.md)）。
 
 ## 引用
 

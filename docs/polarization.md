@@ -19,7 +19,7 @@
 - 频率依赖性 / multi-band（项目目前是单频灰体近似）
 
 要做 EHT-grade，至少补 (a) GRMHD ingestion、(b) full polarized transfer
-along geodesic、(c) Faraday rotation。这些被列在 `DELIVERY_STATUS.md` 的可选博士级
+along geodesic、(c) Faraday rotation。这些被列在 `DELIVERY_STATUS.md` 的可选扩展
 扩展 T11 中。
 
 ## 数学骨架

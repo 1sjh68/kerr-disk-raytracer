@@ -1,4 +1,4 @@
-# Project Scope
+﻿# Project Scope
 
 更新时间：2026-05-21（文档对齐）
 
@@ -14,7 +14,7 @@
 - Validation scripts: fast-path (`validate.py`), geodesic path (`validate_geodesic.py`), extended suite, geokerr cross-validation.
 - Report-ready figures, performance artifacts, paper PDF and presentation PPT.
 
-## Out of Scope (博士级扩展)
+## Out of Scope (扩展工作)
 
 - Full EHT M87* / Sgr A* observational inference.
 - GRMHD data ingestion.

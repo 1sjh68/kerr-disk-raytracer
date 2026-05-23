@@ -1,4 +1,4 @@
-"""生成 paper/main.pdf 的多页技术报告（中文版）。
+﻿"""生成 paper/main.pdf 的多页技术报告（中文版）。
 
 关键设计：
 - matplotlib backend_pdf 拼接多页（避免 LaTeX/Pandoc 依赖）
@@ -285,7 +285,7 @@ def main() -> None:
                 "## 后续工作",
                 "- geokerr 在匹配 observer 半径与相机约定下的轨迹比较。",
                 "- GPU adaptive step / warp bucketing；WSL2 中 ncu profiling。",
-                "- 博士级扩展：完整偏振 radiative transfer、GRMHD ingestion、多 GPU、"
+                "- 扩展工作：完整偏振 radiative transfer、GRMHD ingestion、多 GPU、"
                 "EHT 风格图像指标深度对比、可微 ray tracing、神经网络 surrogate。",
                 "  详见 docs/extensions_roadmap.md。",
             ],

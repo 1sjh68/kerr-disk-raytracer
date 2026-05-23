@@ -71,7 +71,7 @@
 
 > 限制：geokerr 坐标级完全对齐和 Carter 常数半解析对照仍未做完；GPU 端目前是固定步长，自适应步长会引入 warp divergence；颜色映射是近似 sRGB，CIE1931 严格版本是后续扩展。
 
-> 可选博士级方向有：偏振平行传播 + Stokes、GRMHD ingestion 与 EHT-style 指标对比、多 GPU 分块、可微 ray tracing、神经网络 surrogate。这些目前在 `DELIVERY_STATUS.md` 里都标为 0%，是项目的下一阶段。
+> 可选扩展方向有：偏振平行传播 + Stokes、GRMHD ingestion 与 EHT-style 指标对比、多 GPU 分块、可微 ray tracing、神经网络 surrogate。这些目前在 `DELIVERY_STATUS.md` 里都标为 0%，是项目的下一阶段。
 
 > 谢谢。
 
